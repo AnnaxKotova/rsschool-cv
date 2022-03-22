@@ -1,6 +1,6 @@
 # **Anna Kotova**
 ## **Web developer (Front End)**
-
+******
 ![photo](https://media-exp1.licdn.com/dms/image/C4D03AQGNFADpLyMnqQ/profile-displayphoto-shrink_800_800/0/1624726869843?e=1653523200&v=beta&t=daO6FY9NEbIq9tQ5r8EFqLh6f_M8CxIQKJ3KnZ9nxRQ)
 
 ******
@@ -10,7 +10,7 @@
 * **Email:** annaxkotova@gmail.com
 * **Discord:** AnnaxKotova
 * **GitHub** AnnaxKotova
-* [**Linkedin**] (https://www.linkedin.com/in/annakotovaparis/)
+* [Linkedin] (https://www.linkedin.com/in/annakotovaparis/ Linkedin)
 ******
 
 ### **About me**
@@ -30,19 +30,21 @@ Being motivated and hard-working, I easily deal with complex tasks, that can be 
 *******
 
 ### **Working experience**
-*******
+
 **2021 - 2022** Web developer, TX-consulting, Paris, France
 
 **2018 - 2021** - Research engineer, ESPCI Paris, France
-
-### **Education**
 *******
+### **Education**
+
 **2022** - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 **2021** - Web development /(Front-End/), La MANU, Versailles, France
 **2018** - Chemistry /(Master degree/), Novosibirsk state university, Russia
+*******
 
 ### **Languages**
-*******
+
 **English** - C1 *was working in an international group of researches in France, where English was a working language*
 **French** - B2
 **Russian** - native
+*******
