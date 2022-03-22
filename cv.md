@@ -12,6 +12,7 @@
 * **GitHub** AnnaxKotova
 * [**Linkedin**] (https://www.linkedin.com/in/annakotovaparis/)
 ******
+
 ### **About me**
 Being an open-minded and curious person, I love to discover new possibilities and conquer new horisons.
 Having significant experience in the field of science, I have switched to the domain of Web development. After the bootcamp I have found my first position as Front End engineer and currently am in the beginning of my new carrier. 
